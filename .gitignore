@@ -1,3 +1,6 @@
 *.pyc
 database.sqlite3
+django-polls/build/
+django-polls/dist/
+django-polls/django_polls.egg-info/
 .directory
